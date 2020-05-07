@@ -2,7 +2,7 @@ import numpy as np
 import math as ms
 
 
-def generate_signals(tau=0.0002, excitation_frequency=20e+3, e0=5, number_of_samples=10e2):
+def generate_signals(tau=0.0002, excitation_frequency=20e+3, e0=5, number_of_samples=1000):
     # Function that returns the non optimized signals
 
     # Physics parameters
