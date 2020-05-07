@@ -1,5 +1,4 @@
 
-idea\
-pyvenv.cfg
-venv\
+idea/
+venv/
 pip-selfcheck.json
